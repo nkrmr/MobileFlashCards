@@ -1,8 +1,11 @@
 ## To start Mobile Flashcards App:
 
-clone the project with git clone https://github.com/soulso/readable.git
-change directory into cd readable
+clone the project with `git clone https://github.com/soulso/MobileFlashCards.git`
+
+change directory `cd MobileFlashCards/`
+
 install all project dependencies with `npm install` or `yarn install`
+
 start the server with `npm start` or `yarn start`
 
 run on ios : `yarn ios`
